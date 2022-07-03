@@ -915,3 +915,27 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/c8UObjI.png" group-title="General",X TV (Chachapoyas) (720p) [Not 24/7]
 https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PBCoSaE/F10-EL-ALTO.jpg" group-title="Canales Bolivianos",F10 HD
+http://cdn.tvbolivia.com/live/2021/canalf10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LPboPTV/CTV-LA-PAZ.jpg" group-title="Canales Bolivianos",CATOLICA TV SD
+http://cdn.tvbolivia.com/live/2021/catolicatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dvbfp64/PALENQUE-TV-HD.jpg" group-title="Canales Bolivianos",PALENQUE TV HD
+http://cdn.tvbolivia.com/live/2021/palenquetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bfdp65P/FACETAS-TV-SANTA-CRUZ.jpg" group-title="Canales Bolivianos",FACETAS TV SANTA CRUZ HD
+https://master.tucableip.com/ftv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HBPFgoc/BO-PLUS-TV.jpg" group-title="Canales Bolivianos",BO PLUS TV HD
+https://mediastreamm.com:3342/live/boplustvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fvoTYBC/DT-PLAY.jpg" group-title="Canales Bolivianos",DT PLAY
+http://live.cdn.comteco.com.bo/comgo/0221/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TWtcPV/TVU-SCZ-HD.jpg" group-title="Canales Bolivianos",TVU SCZ HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVUNIVERSITARIA/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/teCbpT/MEGA-SCZ-HD.jpg" group-title="Canales Bolivianos",MEGA SCZ HD
+https://livefocamundo.com:8081/megavisiontv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pnfBTV/CEA-COM-TV.jpg" group-title="Canales Bolivianos",CEA COM ORURO TV HD
+https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nbfCBN/RTL-CBBA-HD.jpg" group-title="Canales Bolivianos",RTL COCHABAMBA HD
+http://live.cdn.comteco.com.bo/comgo/0217/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bcpRVC/CRISTAL-HD.jpg" group-title="Canales Bolivianos",CRISTAL SCZ TV HD
+http://america.tucableip.com/bolivia/cristaltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPbpPE/RTV-CANAL-19.jpg" group-title="Canales Bolivianos",RTV CANAL 19 24 DE JULIO HD
+https://cdnhd.iblups.com/hls/NN1wnkXrC1.m3u8
